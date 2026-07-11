@@ -4,7 +4,7 @@
 <tr>
 <td width="280" valign="top">
 
-<img src="https://github.com/areez-ahmad/areez-ahmad/raw/main/profile.jpeg" 
+<img src="https://raw.githubusercontent.com/areez-ahmad/timepass1919/main/profile.jpeg" 
      alt="Areez Ahmad" 
      width="240" 
      style="border-radius: 16px; display: block;" />
