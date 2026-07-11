@@ -1,40 +1,31 @@
-<div align="center">
-
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="280" valign="top">
-
-<img src="https://raw.githubusercontent.com/areez-ahmad/timepass1919/main/profile.jpeg" 
-     alt="Areez Ahmad" 
-     width="240" 
-     style="border-radius: 16px; display: block;" />
-
-</td>
-<td width="30"></td>
-<td valign="top">
-
-<h1>Hi, I'm Areez Ahmad 👋 <img src="https://komarev.com/ghpvc/?username=areez-ahmad&color=00ff41&style=flat-square" alt="profile views"/></h1>
-
-<p>
-  <a href="https://linkedin.com/in/areez-ahmad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="https://github.com/areez-ahmad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-```text
-🧠 Ethical Hacker  |  Penetration Tester
-🌐 ITSOLERA Cyber Security Ambassador
-🔬 Offensive Security Intern
-🚀 Full Stack Developer
-🎓 BS Computer Science
 ```
-
-> *"I break systems to make them stronger 🔐💻"*
-
-</td>
-</tr>
-</table>
-
-</div>
+                                                                                                    
+                                                        ╔══════════════════════════════════════╗   
+                                                        ║         Areez Ahmad                  ║   
+                             .,..                       ╠══════════════════════════════════════╣   
+               .                .,.                     ║  OS      : Kali Linux / Windows 11   ║   
+              ,,       .          :,                    ║  Role    : Ethical Hacker            ║   
+              ;            .      .;                    ║  Focus   : Penetration Testing       ║   
+             .i       .           .:.....               ║  CTF     : Active Player             ║   
+              ;    .,::it;  ,:;:  :;...........         ╠══════════════════════════════════════╣   
+              ii iLttLCL8@CfffGC  i,,,,,,,,.....        ║  Languages / Tools                   ║   
+            . i01C08@@@0@@@@@880t0t,:::::::,,,,...      ║  > Python  > C++  > C  > HTML        ║   
+          ... ,GCfG0@80tLGC8@@@G0@;;;;;;;:::::,,,..     ║  > MySQL   > Bash > Git              ║   
+         ......:L;:fCt11CCtLf8f;Gt;iiiiii;;;;::,,,..    ╠══════════════════════════════════════╣   
+        .........,  ;C0GL0@8L; ;iiiii11111i;;;;:::,.    ║  Security Stack                      ║   
+        ...,,,,,,,1: .;i;ft; ,Lt111ttttttt11ii;;::,,    ║  > Metasploit   > Burp Suite         ║   
+        ...,,,,,,,;f;.     :L8@,ttttttttttt11ii;;:,,    ║  > Nmap         > Wireshark          ║   
+        ..,,,,,,:,.fft1fCC0@@@L  t1tttttttt11i;;;::,    ║  > Hydra        > SQLmap             ║   
+        ....,,,:1: ,fCL0@@@@01.    .i11tft11ii;;::,.    ╠══════════════════════════════════════╣   
+         .,::;i,t; ,iCG0@@8f;::,,      .:it11i;:::,.    ║  Roles                               ║   
+       :;;;,..  :, ,ttGGLi::;i;,.. ..     .,;i1i:,..    ║  > ITSOLERA CyberSec Ambassador      ║   
+    ,ii;,        .  .10:   ..,:.....,  .,,.. .,;ii,.    ║  > Offensive Security Intern         ║   
+   :;,   ..,         ;G::,;,,::;;:,.,. .;:ii;;:,,;:.    ║  > Full Stack Developer              ║   
+        ,,:.  . ..,,. .;ii,,i:::::,.;i:,:;:i;::::::.    ╠══════════════════════════════════════╣   
+      ...,.  ...,,;::,;ti::;,,:::;::ii::;;,,.;::;:::    ║  github  : github.com/areez-ahmad   ║   
+       . . .,,,,:::,,.;1,,,,::::;;iiii;:::: ,:.:;;,:    ║  linkedin: areez-ahmad               ║   
+                                                        ╚══════════════════════════════════════╝   
+```
 
 ---
 
@@ -42,11 +33,11 @@
 
 | | |
 |---|---|
-| 🔭 **Working On** | Ethical Hacking projects, Penetration Testing labs, CTF challenges & Full Stack Development |
-| 👯 **Looking to Collaborate** | Cyber Security research, Open Source security tools, Web & Network Pentesting, Python automation |
-| 🤝 **Looking for Help With** | Advanced exploit development, red teaming techniques & real-world pentesting methodologies |
-| 🌱 **Currently Learning** | Advanced Ethical Hacking, Dark Web Research, Offensive Security & Secure Full Stack Development |
-| 💬 **Ask Me About** | Ethical Hacking, Pentesting, CTFs, Python, MySQL, HTML, C++, C, Web Security & Cyber Awareness |
+| 🔭 **Working On** | Ethical Hacking, Penetration Testing labs, CTF challenges & Full Stack Development |
+| 👯 **Collaborate On** | Cyber Security research, Open Source tools, Web & Network Pentesting, Python automation |
+| 🤝 **Need Help With** | Advanced exploit development, red teaming & real-world pentesting methodologies |
+| 🌱 **Learning** | Advanced Ethical Hacking, Dark Web Research, Offensive Security & Secure Full Stack Dev |
+| 💬 **Ask Me About** | Ethical Hacking, Pentesting, CTFs, Python, MySQL, HTML, C++, Web Security |
 | ⚡ **Fun Fact** | I break systems to make them stronger 🔐 |
 
 ---
@@ -81,5 +72,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=80&section=footer&fontSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=80&section=footer" width="100%"/>
 </div>
