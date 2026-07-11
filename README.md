@@ -1,18 +1,85 @@
-# 💫 About Me:
-👋 About Me<br><br>Areez Ahmad ✔️<br><br>🔭 I’m currently working on<br>Ethical Hacking projects, Penetration Testing labs, CTF challenges, and Full Stack Development projects.<br><br>👯 I’m looking to collaborate on<br>Cyber Security research, Open Source security tools, Web & Network Pentesting, and Python-based automation projects.<br><br>🤝 I’m looking for help with<br>Advanced exploit development, red teaming techniques, and real-world penetration testing methodologies.<br><br>🌱 I’m currently learning<br>Advanced Ethical Hacking, Dark Web Research, Offensive Security techniques, and Secure Full Stack Development.<br><br>💬 Ask me about<br>Ethical Hacking, Penetration Testing, CTFs, Python, MySQL, HTML, C++, C, Web Security, and Cyber Awareness.<br><br>⚡ Fun fact<br>I break systems to make them stronger 🔐💻<br><br>🛡️ Profile Highlights<br><br>🎓 Pursuing BS Computer Science<br>🧠 Ethical Hacker | Penetration Tester | Dark Web Researcher | CTF Player<br>💻 Python | MySQL | HTML | C++ | C<br>🌐 ITSOLERA Cyber Security Ambassador<br>🧪 Offensive Security Intern<br>🚀 Full Stack Developer
+<div align="center">
 
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="280" valign="top">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/timepass1919) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/areez-ahmad-175347316) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:areezahmadch@gmail.com) 
+<img src="https://github.com/areez-ahmad/areez-ahmad/raw/main/profile.jpeg" 
+     alt="Areez Ahmad" 
+     width="240" 
+     style="border-radius: 16px; display: block;" />
 
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=timepass1919&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=timepass1919&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=timepass1919&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</td>
+<td width="30"></td>
+<td valign="top">
+
+<h1>Hi, I'm Areez Ahmad 👋 <img src="https://komarev.com/ghpvc/?username=areez-ahmad&color=00ff41&style=flat-square" alt="profile views"/></h1>
+
+<p>
+  <a href="https://linkedin.com/in/areez-ahmad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/areez-ahmad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+```text
+🧠 Ethical Hacker  |  Penetration Tester
+🌐 ITSOLERA Cyber Security Ambassador
+🔬 Offensive Security Intern
+🚀 Full Stack Developer
+🎓 BS Computer Science
+```
+
+> *"I break systems to make them stronger 🔐💻"*
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=timepass1919&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+| | |
+|---|---|
+| 🔭 **Working On** | Ethical Hacking projects, Penetration Testing labs, CTF challenges & Full Stack Development |
+| 👯 **Looking to Collaborate** | Cyber Security research, Open Source security tools, Web & Network Pentesting, Python automation |
+| 🤝 **Looking for Help With** | Advanced exploit development, red teaming techniques & real-world pentesting methodologies |
+| 🌱 **Currently Learning** | Advanced Ethical Hacking, Dark Web Research, Offensive Security & Secure Full Stack Development |
+| 💬 **Ask Me About** | Ethical Hacking, Pentesting, CTFs, Python, MySQL, HTML, C++, C, Web Security & Cyber Awareness |
+| ⚡ **Fun Fact** | I break systems to make them stronger 🔐 |
+
+---
+
+## 🛡️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=areez-ahmad&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areez-ahmad&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=areez-ahmad&theme=radical&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" height="165"/>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=80&section=footer&fontSize=16" width="100%"/>
+</div>
